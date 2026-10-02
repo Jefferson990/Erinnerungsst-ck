@@ -1,0 +1,144 @@
+KI-BILDER-PROMPTS – Erinnerungsstücke (Babybauch-Abdrücke)
+==========================================================
+
+WICHTIG
+- KI-Bilder sind NUR Atmosphäre/Illustration. Sie werden auf der Seite automatisch
+  mit „Symbolbild (KI)“ gekennzeichnet. Niemals als echte Arbeit ausgeben.
+- Fertige Bilder als JPG speichern (ca. 1600–2000 px lange Kante, max. ~400 KB)
+  und mit dem genannten Dateinamen in den Ordner  assets/images/ki/  legen.
+  Die Seite erkennt sie automatisch und ersetzt den Platzhalter.
+- Prompts sind auf Englisch, weil Midjourney, DALL·E, Firefly, Flux & Co. damit
+  am besten arbeiten. Darunter jeweils kurz auf Deutsch, was zu sehen sein soll.
+
+EINHEITLICHER LOOK (an jeden Prompt anhängen, falls das Tool es zulässt)
+----------------------------------------------------------------------
+soft natural window light, warm off-white, cream, beige and champagne palette with
+subtle gold accents, very light blush pink allowed, calm and airy, fine film grain,
+shallow depth of field, editorial lifestyle photography, shot on 50mm lens,
+photorealistic, high-end, handmade feeling, no text, no logos, no watermark
+
+NEGATIV-PROMPT (falls unterstützt)
+----------------------------------
+text, letters, logo, watermark, harsh flash, saturated colors, neon, plastic look,
+cartoon, illustration, cgi, distorted hands, extra fingers, deformed anatomy,
+visible face, nudity, kitsch, cluttered background
+
+
+----------------------------------------------------------------------
+PROMPT 1 – Optionales Hero-Bild
+Datei: (optional, nur falls ihr das Hero-Bild tauschen wollt)  assets/images/ki/hero.jpg
+Format: 4:5 hochkant
+Einbau: in index.html im HERO-Bereich den Bildpfad referenz-3.jpg ersetzen
+        UND den Hinweis „Echte Arbeit aus unserem Atelier“ in „Symbolbild (KI)“ ändern.
+----------------------------------------------------------------------
+DE: Schwangere Frau in hellem, fließendem Kleid, nur der Bauchbereich ist sichtbar,
+keine erkennbare Person, Hände ruhen sanft am Bauch, warmes Fensterlicht.
+
+EN: Close-up editorial photograph of a pregnant woman's belly in a flowing ivory
+linen dress, only torso from chest to hips visible, face not in frame, one hand
+resting gently on the side of the belly, standing beside a sheer curtain in soft
+morning window light, warm cream and champagne tones, delicate shadows, airy
+minimalist bedroom softly blurred in the background, calm and intimate mood,
+photorealistic, 4:5 portrait format
+
+
+----------------------------------------------------------------------
+PROMPT 2 – Hände auf dem Babybauch
+Datei: assets/images/ki/haende-auf-bauch.jpg
+Format: 3:4 hochkant
+Bereich: „Kennst du das?“
+----------------------------------------------------------------------
+DE: Zwei Hände liegen in Herzform auf einem Schwangerschaftsbauch, helles Oberteil,
+weiche Stoffe, sehr ruhige, liebevolle Stimmung.
+
+EN: Intimate close-up of two hands gently cradling a pregnant belly, fingers relaxed,
+wearing a soft cream knit cardigan open over an ivory slip dress, natural nails,
+a thin delicate gold ring, soft diffused daylight from the side, warm beige and
+cream palette, shallow depth of field, tender and quiet mood, no face visible,
+photorealistic editorial photography, 3:4 portrait format
+
+
+----------------------------------------------------------------------
+PROMPT 3 – Detail: Trockenblumen und Gold
+Datei: assets/images/ki/detail-trockenblumen.jpg
+Format: 1:1 quadratisch
+Bereich: „Was alles möglich ist“
+----------------------------------------------------------------------
+DE: Detailaufnahme von Trockenblumen (Pampasgras, Samtgras, Schleierkraut,
+Eukalyptus) neben feinen Blattgold-Flocken auf einer cremefarbenen Strukturfläche.
+
+EN: Macro still life of dried flowers – pampas grass, bunny tail grass, baby's breath
+and preserved eucalyptus – lying on a textured cream plaster surface with thin
+flakes of gold leaf, soft raking side light revealing the plaster texture, warm
+beige, champagne and muted sage tones, very shallow depth of field, elegant
+handmade atelier mood, photorealistic, square 1:1 format
+
+
+----------------------------------------------------------------------
+PROMPT 4 – Heller kreativer Arbeitsplatz (optional)
+Datei: assets/images/ki/atelier.jpg
+Format: 4:3 quer
+Einbau: optional, z. B. statt „haende-gestalten.jpg“ im Bereich „Unsere Idee“
+----------------------------------------------------------------------
+DE: Heller, aufgeräumter Atelier-Arbeitsplatz mit Holztisch, Pinseln, Spachteln,
+Blattgold-Heftchen, Trockenblumen in Gläsern, Leinwände an der Wand.
+
+EN: Bright minimalist craft studio, light oak worktable by a large window with sheer
+curtains, ceramic cups holding brushes and palette knives, a booklet of gold leaf,
+jars of dried pampas grass and baby's breath, rolls of linen, blank cream canvases
+leaning against a warm white wall, morning light, calm and tidy, warm neutral
+palette with gold accents, no people, photorealistic interior photography, 4:3
+
+
+----------------------------------------------------------------------
+PROMPT 5 – Hände beim Gestalten eines Babybauch-Abdrucks
+Datei: assets/images/ki/haende-gestalten.jpg
+Format: 4:3 quer
+Bereich: „Unsere Idee“
+----------------------------------------------------------------------
+DE: Hände tragen mit einem weichen Pinsel Blattgold auf einen weißen
+Babybauch-Gipsabdruck auf, der auf einer Leinwand mit Stoffstruktur liegt.
+
+EN: Close-up of a woman's hands applying delicate gold leaf with a soft brush onto a
+white plaster pregnancy belly cast mounted on a canvas with draped fabric texture,
+small dried flowers and a jar of gold flakes on the light wooden table nearby,
+soft window light from the left, warm cream and champagne palette, focus on the
+hands and the gold, careful artisanal process, no face, photorealistic, 4:3
+
+
+----------------------------------------------------------------------
+PROMPT 6 – Wohnzimmer mit fertigem Kunstwerk
+Datei: assets/images/ki/wohnzimmer.jpg
+Format: 16:9 quer (wird als zarter Hintergrund im Abschluss-Bereich genutzt)
+----------------------------------------------------------------------
+DE: Hochwertig, ruhig eingerichtetes Wohnzimmer; an der Wand über einem
+Sideboard hängt ein gerahmtes Babybauch-Kunstwerk in Creme und Gold mit Blumen.
+
+EN: Serene high-end living room in warm minimalist style, a large framed artwork on
+the wall above a light oak sideboard: a white plaster pregnancy belly cast on
+canvas with draped fabric relief, gold leaf veins and a bouquet of dried pampas
+grass and white flowers, boucle armchair, linen curtains, ceramic vase, soft late
+afternoon sunlight casting gentle shadows, cream, beige and champagne tones,
+photorealistic interior photography, wide 16:9
+
+
+----------------------------------------------------------------------
+PROMPT 7 – Sichere Verpackung für den Versand
+Datei: assets/images/ki/verpackung.jpg
+Format: 4:3 quer
+Bereich: „Abholung & Versand“
+----------------------------------------------------------------------
+DE: Kunstwerk wird sorgfältig verpackt: Seidenpapier, Schaumstoff-Ecken,
+stabile Holzkiste bzw. Karton, Hände legen eine Karte mit Schleife dazu.
+
+EN: Careful packing of a large artwork for shipping: a cream canvas artwork wrapped
+in ivory tissue paper and protective foam corner guards being placed into a sturdy
+light wooden crate lined with padding, hands tying a thin champagne silk ribbon
+around a small blank card, kraft paper and twine on the table, bright soft daylight,
+trustworthy and caring mood, warm neutral palette, no text on the card,
+photorealistic, 4:3
+
+
+TIPP
+- Lieber 3–4 Varianten erzeugen und die natürlichste wählen (auf Hände achten!).
+- Bilder vor dem Hochladen verkleinern, z. B. mit https://squoosh.app (WebP oder JPG).
